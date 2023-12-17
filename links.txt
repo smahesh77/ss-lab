@@ -1,0 +1,19 @@
+// page
+https://x0.at/r6AR.c fifo page
+https://x0.at/R1q8.c lru
+https://x0.at/kKYX.c lfu
+
+// disk
+https://x0.at/Jhk7.c fcfs
+https://x0.at/nceW.c scan
+https://x0.at/f7Oc.c cscan
+
+//direc
+https://x0.at/4BOJ.c single
+https://x0.at/7OkN.c two
+https://x0.at/5Pq-.c  hie
+
+
+// file
+ https://x0.at/c_4L.c seq
+	
